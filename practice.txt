@@ -2,3 +2,8 @@ Hello world
 thank you
 final copy
 
+mearging 
+pull
+push
+request
+checkout
